@@ -1,0 +1,23 @@
+Good Evening Team,
+
+In Lesson 5, we'll be looking into the essentials of the tidyverse and specifically focusing on tidyr for data manipulation. Please check out the questions below for practice.
+
+1.Write R code to separate "Loss Date" into "Loss_Year", "Loss_Month", and "Loss_Day".
+
+2. How would you use R to combine "Loss_Year", "Loss_Month", and "Loss_Day" into a single "Loss Date"?
+
+3. Write R code to count the missing values in "Gross Paid2", fill these missing values with zeros, and count the missing values again.
+
+4. Transform "Gross Paid" and "Gross Paid2" from wide to long format in R, naming the new columns "Gross_Paid_Type" and "Gross_Paid_Amount".
+
+5. Separate "1ST.TREATY", formatted as "TypeAmount" (e.g., "L5000"), into "Treaty_Type" and "Treaty_Amount", extracting the first character for type and the rest for amount.
+
+6. First separate "Loss Date" into "Loss_Year_Month" and "Loss_Day", then further separate "Loss_Year_Month" into "Loss_Year" and "Loss_Month".
+
+7. Combine "Claim_Identifier", "Category", "Loss Date", and "Statutory Class" into one column, separated by underscores.
+
+8. Replace all NA values in "Gross Paid2" with zero.
+
+9. Summarize the total "Gross Paid" by "Loss_Month" using R.
+
+10. Group the data by "Category" and "Loss_Year", and summarize the total "Gross Paid" for each group.

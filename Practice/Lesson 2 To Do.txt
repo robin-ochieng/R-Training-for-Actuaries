@@ -1,0 +1,26 @@
+Greetings Team,
+
+*In Lesson 2 of our R training, we'll cover the following topics using the attached datasets:
+
+Importing data from various file formats (CSV, Excel, etc.).
+Data cleaning and preprocessing techniques.
+Managing missing values and outliers.
+Exporting datasets from R to Excel and CSV formats.
+
+*Please ensure you complete the exercises below before our next meeting:
+
+1. Explore both Data_Excel and Data_CSV to understand their contents.
+2. Import these datasets as Excel and CSV, respectively, in R.
+3. Import the datasets in R as Excel and CSV formats using at least two different methods.
+4. Check for the number of duplicate records in both datasets.
+5. Extract the duplicated records from each dataset.
+6. Remove duplicate records from the dataset.
+7. Rename the `Statutory Class` column to Class.
+8. Add a new column `Gross_Paid_Dollar` to convert values from KSH to USD in the `Gross Paid` column.
+9. Count the missing values in the Gross Paid 2 column.
+10. Handle the missing values by either imputation or removal.
+11. Determine the number of outliers in the Gross Paid 2 column.
+12. Extract rows that contain outliers in the Gross Paid 2 column.
+13. Export these extracted outliers to Excel or CSV formats.
+
+Looking forward to our session.

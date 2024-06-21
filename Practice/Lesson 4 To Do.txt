@@ -1,0 +1,22 @@
+Hi team, 
+
+In Lesson 4, we'll be dealing with dates and times. Please practice using the exercises below before our next meeting:
+
+1. Ensure that all date columns ("Loss Date", "Reported", "Paid Date") are in Date format and not character, numeric, or factor types.
+2. Compute the number of days between "Loss Date" and "Reported".
+3. Compute the number of days between "Loss Date" and "Paid Date".
+4. Extract the year from "Loss Date", "Paid Date", and "Reported" and create a summary per year.
+5. Calculate the age of each claim by finding the difference between the current date and "Paid Date".
+6. Create a subset of data for claims reported in the first quarter of any year.
+7. Plot the trend of "Gross Paid" amounts by month.
+8. Determine which claims were reported on weekends.
+9. Calculate the number of days from "Reported" to "Paid Date" for each claim.
+10. Extract the week number from "Loss Date" and create a summary of the number of claims per week.
+11. Filter claims that were reported within a specific date range (e.g., between "2022-01-01" and "2023-12-01").
+12. Create buckets for claim ages (e.g., 0-30 days, 31-60 days, etc.) and summarize the number of claims in each bucket by class.
+13.Calculate the average number of claims reported each day.
+14. Analyze the number of claims reported by day of the week.
+15. Identify the top 10 claims with the longest duration between "Loss Date" and "Paid Date".
+16. Calculate the quarterly trend of "NetPaid" amounts.
+17. Calculate the median reporting delay for each month.
+18. Find the maximum claim age for each "Statutory Class".

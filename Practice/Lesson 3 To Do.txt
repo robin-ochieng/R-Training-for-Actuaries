@@ -1,0 +1,20 @@
+Greetings Team,
+In Lesson 3, we'll cover the following topics using the attached dataset:
+a). Introduction to data manipulation with dplyr
+b). Data visualization with ggplot2
+ 
+ 
+Please ensure you complete the exercises below before our next meeting:
+1. Load the 'Data_Excel' data into R.
+2. Group the data by the 'Category' column, calculate the total 'Gross Paid' and 'Net Paid' for each category while excluding any missing values.
+3. Convert the 'Gross Paid' column to Tanzanian shillings and store it in a new column named 'Gross_Paid_Tz'.
+4. Filter out the data for the Marine class and save in a variable named "marine_data".
+5. Exclude entries where 'Gross Paid' is greater than or equal to 200,000.
+6. Select the 'Loss Date', 'Paid Date', and 'Statutory Class' columns from the dataset to create a dataset named 'selected_columns'.
+7. Arrange the data by 'Claims' in descending order and save it to the variable 'arranged_data'.
+8. Count the number of entries per 'Category' and save it to 'category_count'.
+9. Retrieve the unique values of the 'Category' and save them to the variable 'distinct_category'.
+8. Group the data by 'Category' and then summarize by 'Gross Paid'.
+9. After grouping and summarizing by 'Gross Paid', use ggplot2 to create a bar plot where each bar represents a category, and the height represents the summed 'Gross Paid'.
+10. Generate a scatter plot of 'Gross Paid' versus 'Net Paid' with points colored by 'Category' and add a linear regression line.
+11. Generate a box plot to visualize the distribution of 'Gross Paid' across different 'Category' values.

@@ -1,0 +1,99 @@
+Week 1: Introduction to R
+Objectives:
+Learn the fundamentals of R and RStudio
+Understand basic data types and structures in R
+Get introduced to data manipulation with dplyr and data visualization with ggplot2
+Topics:
+Introduction to R: Overview, history, and ecosystem
+RStudio Overview: Features, setup, and customization
+Basic Data Types: Vectors, lists, factors, and data frames
+Introduction to dplyr: Basic operations (filter, arrange, mutate, select, summarize, group_by)
+Introduction to ggplot2: Basic plotting (scatter plots, bar charts, line charts, etc.)
+Activities:
+Hands-on Practice: Create simple scripts in RStudio to understand data types and structures.
+Data Manipulation Exercise: Use dplyr to manipulate a sample dataset (filtering, arranging, etc.).
+Data Visualization Exercise: Create basic plots with ggplot2 (scatter plots, bar charts).
+Resources:
+RStudio Documentation
+R for Data Science by Hadley Wickham
+ggplot2 Cheat Sheet
+
+
+Week 2: Data Import and Cleaning
+Objectives:
+Learn to import data from various sources
+Understand data cleaning and preprocessing
+Handle missing values and outliers
+Topics:
+Data Import: Read data from CSV, Excel, and other formats
+Data Cleaning: Techniques for cleaning and transforming data
+Missing Values: Identifying and handling missing data (NA values)
+Outliers: Identifying and dealing with outliers
+Data Validation: Checking for data consistency and quality
+Activities:
+Importing Data Exercise: Import data from different sources (CSV, Excel).
+Data Cleaning Exercise: Clean and preprocess a dataset (remove missing values, handle outliers).
+Data Validation Exercise: Perform basic data validation checks on a dataset.
+Resources:
+readr Package Documentation
+tidyr Package Documentation
+R Data Import/Export Manual
+
+
+Week 3: Statistical Analysis with R
+Objectives:
+Understand descriptive statistics and summary measures
+Learn basic inferential statistics
+Conduct linear regression analysis and time series analysis
+Topics:
+Descriptive Statistics: Mean, median, mode, standard deviation
+Inferential Statistics: Hypothesis testing and confidence intervals
+Linear Regression: Model fitting and interpretation
+Time Series Analysis: Working with time series data (using ts objects and the forecast package)
+Activities:
+Descriptive Statistics Exercise: Calculate summary measures for a dataset.
+Hypothesis Testing Exercise: Perform a t-test or chi-square test.
+Linear Regression Exercise: Fit a linear regression model and analyze the results.
+Time Series Analysis Exercise: Create a time series object and make simple forecasts.
+Resources:
+stats Package Documentation
+forecast Package Documentation
+Introduction to Statistical Learning with R
+
+
+Week 4: Introduction to Machine Learning with R
+Objectives:
+Learn about supervised and unsupervised machine learning
+Understand classification and regression algorithms
+Explore model evaluation and validation techniques
+Topics:
+Supervised Learning: Classification (logistic regression, decision trees), regression (linear regression, random forests)
+Unsupervised Learning: Clustering (k-means), dimensionality reduction (PCA)
+Model Evaluation: Cross-validation, ROC curves, confusion matrices
+Activities:
+Supervised Learning Exercise: Build a simple classification model (e.g., logistic regression).
+Unsupervised Learning Exercise: Perform k-means clustering on a dataset.
+Model Evaluation Exercise: Evaluate a model using cross-validation or ROC curves.
+Resources:
+caret Package Documentation
+Machine Learning with R by Brett Lantz
+R Machine Learning Cheat Sheet
+
+
+Week 5: Project Work
+Objectives:
+Apply the skills learned in previous weeks to real-world problems
+Complete a comprehensive project involving data analysis and visualization
+Topics:
+Project Definition: Define the scope and objectives of the project
+Data Collection: Gather the required data for the project
+Data Analysis: Perform comprehensive data analysis using R
+Data Visualization: Create meaningful visualizations to present results
+Project Presentation: Prepare a report or presentation to share findings
+Activities:
+Project Work: Complete a comprehensive project from start to finish, including data import, cleaning, analysis, and visualization.
+Presentation Preparation: Create a report or presentation summarizing project findings.
+Resources:
+RMarkdown Documentation
+Shiny Package Documentation
+Bookdown Package Documentation

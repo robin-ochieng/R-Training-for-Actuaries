@@ -1,0 +1,23 @@
+General Questions
+
+What are the advantages of using RStudio over just using R?
+Which area of the RStudio interface would you go to write and save scripts?
+How do you execute a piece of code in RStudio?
+What is the purpose of the Console panel in RStudio?
+Can you describe a scenario where you might need to use the History panel?
+What is an R package and why are they important?
+How do you install and load an R package in RStudio?
+Can you name three packages in R and describe what they are used for?
+What steps would you take to troubleshoot if a package fails to load?
+What are the basic data types in R, and how do they differ from each other?
+Can you convert a numeric type to a character type? How would you do it?
+What is a factor in R and when would you use it?
+Describe a situation where you might choose to use a list instead of a vector.
+How would you create a data frame containing both numeric and character columns?
+Given a vector of dates, how would you convert it to a Date type in R?
+How do you subset a matrix in R?
+What function would you use to apply a common operation to every element of a list or vector?
+Explain the difference between library() and require() when loading a package.
+What is lazy loading in the context of R packages?
+How does R handle missing values in a data frame?
+What are some key differences between data.frame() and data.table() in handling data?
